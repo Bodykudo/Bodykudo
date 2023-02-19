@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bodykudo&label=Profile%20views&color=0e75b6&style=flat" alt="bodykudo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodykudo" alt="bodykudo" /></a> </p>
+
 - 🌱 I’m currently learning **React, NodeJS**
 
 - 👨‍💻 Many of my projects are available at [https://bodykudo.github.io/Portofolio/](https://bodykudo.github.io/Portofolio/)
