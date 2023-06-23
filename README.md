@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Abdallah Magdy</h1>
 <h3 align="center">A front-end web developer 👨‍💻 Studying biomedical engineering 🧬</h3>
 
