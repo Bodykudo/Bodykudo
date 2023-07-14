@@ -14,9 +14,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Next.js, Node.js** - 💬 Ask me about
-  **React** - 📫 How to reach me **abdullah.mahmoud02@eng-st.cu.edu.eg** -
-  📄 Know about my experiences
+- 🌱 I’m currently learning **Next.js, Node.js**
+- 💬 Ask me about
+  **React**
+- 📫 How to reach me **abdullah.mahmoud02@eng-st.cu.edu.eg**
+- 📄 Know about my experiences:
   [https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link](https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
