@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdallah Magdy</h1>
 <h3 align="center">
-  A front-end web developer 👨‍💻 Studying biomedical engineering 🧬
+  Full stack developer 👨‍💻 Studying biomedical engineering 🧬
 </h3>
 
 <p align="left">
@@ -14,12 +14,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Next.js, Node.js**
-- 💬 Ask me about
-  **React**
-- 📫 How to reach me **abdullah.mahmoud02@eng-st.cu.edu.eg**
-- 📄 Know about my experiences:
-  [https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link](https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link)
+- 📫 How to reach me **abdallah.magdy.sadek@gmail.com**
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link](https://drive.google.com/file/d/1fkat1QBuVSIfTDJmBqgWq8QvJiQZoRtB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,13 +30,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages:</h4>
+<h3 align="left">Languages:</h3>
 <p align="left">
-  <a
-    href="https://www.cprogramming.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
@@ -48,11 +40,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.w3schools.com/cpp/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
@@ -68,6 +56,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -90,7 +86,7 @@
   </a>
 </p>
 
-<h4 align="left">Web Development:</h4>
+<h3 align="left">Front-end Web Development:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -100,11 +96,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.w3schools.com/css/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -120,18 +112,26 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
+  <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/download/473611/flask.svg"
-      alt="flask"
+      src="https://next-auth.js.org/img/logo/logo.png"
+      alt="next-auth"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
       width="40"
       height="40"
     />
@@ -162,7 +162,55 @@
   </a>
 </p>
 
-<h4 align="left">Data Analysis:</h4>
+<h3 align="left">Back-end Web Development:</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg"
+      alt="prisma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://flask.palletsprojects.com/en/2.3.x/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.svgrepo.com/download/473611/flask.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<h3 align="left">Data Analysis:</h3>
 <p align="left">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img
@@ -188,7 +236,11 @@
       height="40"
     />
   </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+  <a
+    href="https://powerbi.microsoft.com/en-us/"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png"
       alt="powerbi"
@@ -198,7 +250,7 @@
   </a>
 </p>
 
-<h4 align="left">Others</h4>
+<h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
